@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364604401028",
+    "project_id": "cinemato-f0676",
+    "storage_bucket": "cinemato-f0676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364604401028:android:057c125db4e425ef2ce9d1",
+        "android_client_info": {
+          "package_name": "com.example.cinemato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364604401028-ma8tv20akcm9iq4iaacq3n3b28ss2qa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinemato",
+            "certificate_hash": "0ac88a096c04aca718c920d3e64c675443011400"
+          }
+        },
+        {
+          "client_id": "364604401028-er9qte444kmo16j3hb8vjeret6ie5fhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0keBhm_NHv7PaxjBliB1VW5gmdPPt_fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364604401028-er9qte444kmo16j3hb8vjeret6ie5fhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
